@@ -3,3 +3,6 @@ def function_B():
 
 def function_C():
     return 'C'#comment
+
+def function_D():
+    return 'D'
